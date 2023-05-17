@@ -7,7 +7,7 @@ import './Missions.css';
 class Missions extends Component {
   render() {
     return (
-      <div data-testid="missions" className>
+      <div data-testid="missions">
         <Title headline="Missões" />
         <div className="missions-section">
           {missions.map((mission) => (
