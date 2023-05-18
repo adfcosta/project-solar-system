@@ -1,6 +1,6 @@
 # Projeto Solar System
 
-  O Solar System é um projeto que exibe os planetas que compõem o nosso sistema solar e apresenta algumas das missões espaciais já realizadas. Esse foi  o `primeiro projeto` do módulo de Front End do curso de [Desenvolvedor Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) e e envolve o uso da biblioteca ReactJS e eestilizado utilizando CSS.
+  O Solar System é um projeto que exibe os planetas que compõem o nosso sistema solar e apresenta algumas das missões espaciais já realizadas. Esse foi  o `primeiro projeto` do módulo de Front End do curso de [Desenvolvedor Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web. Sua realização envolveu o uso da biblioteca ReactJS e foi estilizado utilizando CSS.
   
 ## Tecnologias Utilizadas
   Este projeto utiliza as seguintes tecnologias:
