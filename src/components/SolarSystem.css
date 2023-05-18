@@ -1,0 +1,40 @@
+.planets {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.planet-img {
+    display: flex;
+    height: 30vh;
+    align-items: center;
+}
+
+.mercúrio {
+    width: 2.8vw;
+}
+
+.vênus {
+    width: 6.8vw;
+}
+
+.terra {
+    width: 7vw;
+}
+
+.marte {
+    width: 4.4vw;
+}
+
+.júpiter {
+    width: 18vw;
+}
+
+.saturno {
+    width: 19vw;
+}
+
+.urano, .netuno{
+    width: 9.6vw;
+}
