@@ -1,0 +1,19 @@
+h2 {
+    font-family: 'epilogue', sans-serif;
+    font-size: 3rem;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 500px;
+}
+
+.border-titles {
+    border: 1px solid #FFFFFF;
+    border-radius: 1rem;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+
+/* Path: src/components/Title.js */
