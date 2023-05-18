@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  node:
+    image: node:16.14
+    container_name: project-solar-system
+    tty: true
+    stdin_open: true
+    working_dir: /home/app
+    volumes:
+      - ./:/home/app
+    ports:
+      - 3000:3000
+    command: bash -c "npm install && npm start"
